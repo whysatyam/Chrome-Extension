@@ -29,3 +29,7 @@ This Chrome extension helps you save, add, and delete URLs, making it easy to ke
 - Click on the extension’s icon in the Chrome toolbar.
 - Use the options to save, add, or delete URLs as needed.
 - Manage your list of important links directly within the extension.
+
+Thank you for using the extension!
+
+  
