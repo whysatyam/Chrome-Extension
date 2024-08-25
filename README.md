@@ -8,6 +8,8 @@ This Chrome extension helps you save, add, and delete URLs, making it easy to ke
 - **Add URLs**: Manually add any URL to your list.
 - **Delete URLs**: Easily remove URLs from your list when they are no longer needed.
 - **Manage Important Links**: Keep all your important links organized in one place.
+  
+![Chrome URL Manager Screenshot](images/urltracker.png)
 
 ## Installation
 
